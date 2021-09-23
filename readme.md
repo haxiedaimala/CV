@@ -20,7 +20,7 @@
 
 **技术栈**
 
-`vue`、`vue-router`,`vuex`,'element-ui`,`webpack`,`es6`
+`vue`、`vue-router`,`vuex`,`element-ui`,`webpack`,`es6`
 
 **项目源码**
 
