@@ -24,7 +24,7 @@
 
 **项目源码**
 
-github.com,点击查看效果预览
+https://haxiedaimala.github.io/CV/,点击查看效果预览
 
 
 ## 个人评价
