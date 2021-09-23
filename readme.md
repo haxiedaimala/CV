@@ -24,8 +24,7 @@
 
 **项目源码**
 
-https://haxiedaimala.github.io/CV/,点击查看效果预览
-
+https://haxiedaimala.github.io/CV/ , 点击查看效果预览
 
 ## 个人评价
 痴迷新技术，喜欢承担有技术难度的工作，爱分享，善于知识总结梳理
